@@ -824,8 +824,8 @@ body {
   justify-content: center;
 }
 
-.modal-btn:hover .modal-close-icon,
-.modal-btn:focus .modal-close-icon {
+.modal-close-btn:hover .modal-close-icon,
+.modal-close-btn:focus .modal-close-icon {
   fill: var(--accent-color);
 }
 
